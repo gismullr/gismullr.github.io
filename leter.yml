@@ -1,0 +1,15 @@
+theme: 
+  background_color: "#F9F9F8"
+  text_color: "#034E3B"
+  link_color: "#06D6A0"
+  font_url: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Trocchi"
+  text_font: "'Source Sans Pro', sans-serif"
+  heading_font: "'Trocchi', serif"
+  heading_color: "#023E2F"
+  text_size: "21.12px"
+
+date_format: "%B %d, %Y"
+google_analytics: "UA-115861632-1"
+
+css_url: /leter.css
+
