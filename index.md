@@ -1,4 +1,4 @@
-# Hi I'm Gica 👋
+# Hi there 👋
 I’m Gisele Muller Sasso. Wife, mom,  [Jazzercise](http://www.jazzercise.com/)  instructor, aspiring writer and occasional runner. I’m a Brazilian currently living in beautiful Santa Cruz, CA.
 
 I moved to the United States in 2011 after a project my husband and I launched together got some attention from  [TechCrunch](https://techcrunch.com/2010/11/04/mentaway/)  and opened a few doors. Many years, a kid and a mortgage later I’m pretty happy with how things turned out.
