@@ -8,8 +8,16 @@ theme:
   heading_color: "#023E2F"
   text_size: "21.12px"
 
-date_format: "%B %d, %Y"
+date_format: "%b %d, %Y"
 google_analytics: "UA-115861632-1"
 
 css_url: /leter.css
 
+custom:
+  index:
+    title: "Gisele Muller Sasso"
+  blog:
+    my-first-half-marathon:
+      theme: 
+        name: "crest"
+        text_size: "20px"
