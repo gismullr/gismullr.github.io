@@ -1,6 +1,6 @@
-# My First Half Marathon 🏃
+# My First Half Marathon
 
-Oh, the excitement. I honestly had no idea the excitement would run so high in this event. I was not anticipating the camaraderie and the overall supportive vibe that surrounds all runners. So yes, that caught me off guard. But back to it. It was a cold November Sunday and I was running my first half marathon. I was excited, nervous, happy, apprehensive. I was feeling all of the feelings. The race started at 6:50 am, which means I was up since 5:15 am getting ready for it. Fall weather, on that particular morning, was not so inviting. It was cloudy, and the air was chillier than I would’ve liked it to be. At least for running purposes. 
+Oh, the excitement. I honestly had no idea the excitement would run so high in this event. I was not anticipating the camaraderie and the overall supportive vibe that surrounds all runners. So yes, that caught me off guard. But back to it. It was a cold November Sunday (11/10/19) and I was running my first half marathon. I was excited, nervous, happy, apprehensive. I was feeling all of the feelings. The race started at 6:50 am, which means I was up since 5:15 am getting ready for it. Fall weather, on that particular morning, was not so inviting. It was cloudy, and the air was chillier than I would’ve liked it to be. At least for running purposes. 
 
 A little background. I was in charge of my training. It was a mix of Google searches, [husband’s](https://eduardosasso.github.io) input, and my gut. My husband is a much better (and faster) runner than I am, so I listened to his ideas for a good half marathon training plan. And my first lesson about training for a half marathon was that you do need some sort of plan. 
 
